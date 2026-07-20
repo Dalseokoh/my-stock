@@ -243,3 +243,4 @@ st.dataframe(summary_df, use_container_width=True, hide_index=True)
 
 st.markdown("---")
 st.caption("⚠️ 본 대시보드는 정보 제공 목적이며, 투자 판단의 근거로 사용될 수 없습니다.")
+
